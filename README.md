@@ -1,4 +1,4 @@
-# permutation-generator
+# 🦾 permutation-generator
 Generate the k-permutation of n where n is the number of character chosen.
 
 ## How to import this project
